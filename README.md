@@ -1,5 +1,5 @@
 # torrent.el
-Find torrents using Google or DuckDuckGo without leaving emacs.
+Find torrents using Google or DuckDuckGo without leaving emacs. ([Video](https://github.com/lucasew/torrent.el/releases/download/0.1/screencast.mp4))
 
 ## What is this?
 - It's an emacs plugin, so its a extension for the emacs editor.
